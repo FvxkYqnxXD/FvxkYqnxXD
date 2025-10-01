@@ -10,4 +10,4 @@ Bienvenido a mi perfil :)
 
 <br><a><img src="https://komarev.com/ghpvc/?username=FvxkYqnxXD&label=Profile%20views&color=0e75b6&style=flat" alt="guldkage" /></a></br>
 
-[![My Skills](https://skillicons.dev/icons?i=bash,css,ubuntu,github,grafana,html,linux,nginx,php,vscode,windows,discordjs,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,css,ubuntu,github,html,linux,nginx,php,vscode,windows,discordjs,python)](https://skillicons.dev)
